@@ -1,5 +1,2 @@
-# P3.3 Selección de cor en rede
-
-Crea un xogo multixogador no que os xogadores teñan un botón que pode facer que muden de cor aleatoriamente.
-
-Deberás ter 10 cores predefinidas e cando un xogador entre asíganselle unha cor calquera, cando posteriormente presione o botón seleccionarase outra desas cores aleatoriamente. Pero en ambos casos, terás que asegurarte que esa cor non está xa asignada a un xogador.
+#P3.2 Get started NGO + movemento
+Realiza o titorial Get started with NGO. Logo elimina o Network transform que introduciches no seguinte paso. Fai que as capsulas respondan aos movementos esquerda, dereita, arriba e abaixo; e asegúrate de ese momento o reproduzan en rede (que o player se mova en todos os equipos). Non podes usar o Network transform para isto, só Networkvariables e chamadas RPC.
